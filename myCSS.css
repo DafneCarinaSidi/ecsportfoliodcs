@@ -5,7 +5,7 @@ body {
 	font:100%/1.4 Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif
 }
 .homePage {
-	background: #5ADBC4;
+	background: #81C0DB;
 }
 .container {
 	width: 960px;
@@ -31,7 +31,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #78D2DB;
+	background: #81DBBB;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -39,10 +39,25 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #5A9FDB;
+	background: #81C0DB;
 	margin: 0px;
 	float: left;
 	width: 100%;
 	height: 50px;
 	text-align: center;
 }
+body {
+     font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+     background-color: #FFFFFF;
+     margin: 0;
+     padding: 0;
+     color: #000;
+}
+a:link {
+     color: #000000;
+}
+a:visited {
+     color: ##79DBA1;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
