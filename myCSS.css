@@ -5,14 +5,14 @@ body {
 	font:100%/1.4 Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 .homePage {
-	background: #81C0DB;
+	background: #70A7BE;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #5A9FDB;
+	background: #70A7BE;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -31,7 +31,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #81DBBB;
+	background: #70A7BE;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -48,16 +48,16 @@ body {
 }
 body {
      font: 100%/1.4 Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-     background-color: #FFFFFF;
+     background-color: #2C424A;
      margin: 0;
      padding: 0;
      color: #000;
 }
 a:link {
-     color: #000000;
+     color: #4E7585;
 }
 a:visited {
-     color: ##79DBA1;
+     color: #4E7585;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
