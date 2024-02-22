@@ -48,16 +48,16 @@ body {
 }
 body {
      font: 100%/1.4 Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-     background-color: #2C424A;
+     background-color: #BB271F;
      margin: 0;
      padding: 0;
      color: #000;
 }
 a:link {
-     color: #4E7585;
+     color: #CC4A43;
 }
 a:visited {
-     color: #4E7585;
+     color: #923530;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
